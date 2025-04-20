@@ -1,11 +1,17 @@
 # Generative AI On Cloud (AWS)
 
-## Blog generation in aws using bedrock, etc
+## 1. Blog generation in aws using bedrock, etc
 
-### setup
+## 2. AI-resume-generation
 
-1. run
-``` pip install -r requirements.txt ```
+## 3. Text summarization
 
-2. set up your aws bedrock and S3 configurations
-s3: create a S3 bucket called ```aws_bedrock_blogs````
+## 4. 
+
+## 5. 
+
+## 6. 
+
+## 7. 
+
+
